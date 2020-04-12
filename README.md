@@ -1,0 +1,2 @@
+# allow
+Just anothet repository
